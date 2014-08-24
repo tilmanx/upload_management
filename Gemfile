@@ -23,3 +23,7 @@ end
 group :development, :test do
   gem 'puma'
 end
+
+
+gem 'activeadmin', github: 'activeadmin'
+gem 'devise'
